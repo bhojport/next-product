@@ -5,9 +5,9 @@
 - If you're trying to complete your *next small application*, then this is *not suitable*. It  may consume your time - especially to follow the guidelines.
 
 # Getting Started
-- Clone `next-product` and `next-server`
-*You can use your own server in any language that you prefer. `next-server` is only provided for testing purpose which is built with loopback 4.*
-- `git clone git@github.com:bhojport/next-server.git` # To clone `next-server`
+- Clone `next-product` and `nexserver`
+*You can use your own server in any language that you prefer. `nexserver` is only provided for testing purpose which is built with loopback 4.*
+- `git clone https://github.com/bhojport/nexserver` # To clone `nexserver`
 
 ## Yarn Users
 - `yarn` # To install node modules
