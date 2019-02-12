@@ -1,0 +1,6 @@
+.table-list tbody tr {
+  cursor: pointer;
+}
+dd span {
+  min-width: 60px;
+}

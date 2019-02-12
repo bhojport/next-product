@@ -1,0 +1,35 @@
+{
+  "name": "next-product",
+  "version": "1.0.0",
+  "description": "Next.js boilerplate built with custom express router setup.",
+  "author": "Bhojendra Rauniyar",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon np-engine.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node np-engine.js"
+  },
+  "keywords": [
+    "next",
+    "product",
+    "boilerplate",
+    "react"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "cross-fetch": "^3.0.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "next": "^7.0.2",
+    "next-redux-wrapper": "^3.0.0-alpha.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^3.1.3",
+    "nodemon": "^1.18.9"
+  }
+}

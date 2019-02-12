@@ -1,0 +1,1 @@
+export { productsInitials } from './initials'

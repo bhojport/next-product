@@ -1,0 +1,1 @@
+export { default as ProductsComponent } from './Products'
